@@ -6,4 +6,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-0.31.0 - added statusbar styling
+0.32.0 - added statusbar styling
