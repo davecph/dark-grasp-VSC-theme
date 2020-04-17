@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "dave-test-01" extension will be documented in this file.
+All notable changes to the "Dark Grasp" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
 
-- Initial release
+0.31.0 - added statusbar styling

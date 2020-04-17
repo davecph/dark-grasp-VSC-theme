@@ -3,7 +3,7 @@
     "displayName": "Dark Grasp",
     "publisher": "daveTrap",
     "description": "First theme test",
-    "version": "0.30.0",
+    "version": "0.31.0",
     "engines": {
         "vscode": "^1.44.0"
     },
