@@ -1,5 +1,5 @@
 # Dark Grasp
-## In dartkness we roam - for light we grasp
+## In darkness we roam - for light we grasp
 
 This is my first shot at a vsc theme - it has mainly been designed for my own use, and is (for now) focused on sass.
 It is a dark theme with a clear focus on code with neutral background - with colors nuances structured to give you an easy overview of your code elements.
