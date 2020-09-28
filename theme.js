@@ -56,6 +56,7 @@ var res = jv({
         "input.background": "{color_bg_dark}",
         "input.border": "{color_hilight}",
         "input.foreground": "{color_hilight}",
+        "input.placeholderForeground": "{dimmed_txt}",
         "input.activeBackground": "{color_bg_dark}",
         "input.activeBorder": "{color_hilight}",
         "input.activeForeground": "{color_hilight}",
