@@ -92,6 +92,7 @@ var res = jv({
         "panelTitle.inactiveForeground": "{dimmed_txt}",
         "window.activeBorder":"{color_bg_lighter}",
         "window.inactiveBorder": "{color_bg_dark}", 
+        "focusBorder": "{color_bg_dark}",
     },
     "tokenColors": [{
         "name": "Comment",
