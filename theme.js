@@ -15,7 +15,7 @@ var res = jv({
     color_property_01: "#338dab",
     color_property_02: "#34a8cf",
     color_property_03: "#6bbbd6",
-    color_property_01_trans: "#22222255",
+    color_property_01_trans: "#222222AA",
     color_value_01: "#7e8c38",
     color_value_02: "#98a653",
     color_value_03: "#afbf60",
