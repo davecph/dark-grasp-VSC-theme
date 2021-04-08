@@ -80,7 +80,7 @@ var res = jv({
         "scrollbar.shadow": "{color_bg}",
         "scrollbarSlider.background": "{color_bg_dark}",
         "scrollbarSlider.activeBackground": "{color_bg_lighter}",
-        "scrollbarSlider.hoverBackground": "{color_bg_light}",
+        "scrollbarSlider.hoverBackground": "{color_change_this}",
         "statusBar.background": "{color_bg_dark}",
         "statusBar.border": "{color_bg_light}",
         "statusBar.foreground": "{color_hilight}",
