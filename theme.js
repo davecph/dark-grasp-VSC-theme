@@ -8,7 +8,7 @@ var res = jv({
     clear_txt: "#777",
     color_bg_dark: "#151515",
     color_hilight: "#66d8ff",
-    color_lowlight: "4999b4",
+    color_lowlight: "#4999b4",
     color_change_this: "#f0f",
     color_selector_01: "#a18118",
     color_selector_02: "#bd983a",
