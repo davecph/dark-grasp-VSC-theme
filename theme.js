@@ -8,6 +8,7 @@ var res = jv({
     clear_txt: "#777",
     color_bg_dark: "#151515",
     color_hilight: "#66d8ff",
+    color_lowlight: "4999b4",
     color_change_this: "#f0f",
     color_selector_01: "#a18118",
     color_selector_02: "#bd983a",
@@ -47,6 +48,9 @@ var res = jv({
         "tab.activeBorderTop": "{color_hilight}",
         "tab.activeForeground": "{color_hilight}",
         "tab.inactiveBackground": "{color_bg_dark}",
+        "tab.inactiveForeground": "{color_lowlight}",
+        "tab.unfocusedActiveForeground": "{color_lowlight}",
+        "tab.unfocusedInactiveForeground": "{color_lowlight}",
         "activityBar.background": "{color_bg}",
         "activityBar.border": "{color_bg_light}",
         "activityBar.activeBorder": "{color_hilight}",
@@ -80,7 +84,7 @@ var res = jv({
         "scrollbar.shadow": "{color_bg}",
         "scrollbarSlider.background": "{color_bg_dark}",
         "scrollbarSlider.activeBackground": "{color_bg_lighter}",
-        "scrollbarSlider.hoverBackground": "{color_change_this}",
+        "scrollbarSlider.hoverBackground": "{color_hilight}",
         "statusBar.background": "{color_bg_dark}",
         "statusBar.border": "{color_bg_light}",
         "statusBar.foreground": "{color_hilight}",
@@ -430,19 +434,19 @@ var res = jv({
         "settings": {
             "fontStyle": "italic",
         }
-    }, {
+    }/* , {
         "name": "Markdown - Link",
         "scope": ["string.other.link.title.markdown"],
         "settings": {
             "foreground": "#82AAFF"
         }
-    }, {
+    } *//* , {
         "name": "Markdown - Link Description",
         "scope": ["string.other.link.description.title.markdown"],
         "settings": {
             "foreground": "#C792EA"
         }
-    }, {
+    } */, {
         "name": "Markdown - Link Anchor",
         "scope": ["constant.other.reference.link.markdown"],
         "settings": {
